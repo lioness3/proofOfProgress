@@ -12,3 +12,4 @@
 * learning debugging tools
 * practicing state with hooks
 * seperating components
+* troubleshoot
