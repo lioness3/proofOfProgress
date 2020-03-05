@@ -10,3 +10,4 @@
 ###_Thursday_
 * start day
 * learning debugging tools
+* practicing state with hooks
