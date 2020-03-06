@@ -13,3 +13,4 @@
 * practicing state with hooks
 * seperating components
 * troubleshoot
+* troubleshoot
