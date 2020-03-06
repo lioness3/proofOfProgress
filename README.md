@@ -14,3 +14,4 @@
 * seperating components
 * troubleshoot
 * troubleshoot
+* troubleshoot passing props to grandchildren
